@@ -1,0 +1,124 @@
+{"level":30,"time":"2024-09-28T01:32:02.517Z","pid":42868,"hostname":"Cintia_Brito","msg":"Listening on 63102"}
+(node:42868) DeprecationWarning: Calling start() is no longer necessary. It can be safely omitted.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":"2024-09-28T01:32:02.745Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-09-28T01:32:02.745Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-09-28T01:32:02.748Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-09-28T01:32:02.749Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-09-28T01:32:02.754Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2024-09-28T01:32:03.100Z","pid":42868,"hostname":"Cintia_Brito","msg":"Adding browser to stack: chromium, version: 129.0.6668.29"}
+{"level":30,"time":"2024-09-28T01:32:03.100Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method newBrowser"}
+{"level":30,"time":"2024-09-28T01:32:03.100Z","pid":42868,"hostname":"Cintia_Brito","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2024-09-28T01:32:03.106Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-09-28T01:32:03.107Z","pid":42868,"hostname":"Cintia_Brito","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-09-28T01:32:03.125Z","pid":42868,"hostname":"Cintia_Brito","msg":"Changed active context"}
+{"level":30,"time":"2024-09-28T01:32:03.411Z","pid":42868,"hostname":"Cintia_Brito","msg":"Video path: undefined"}
+{"level":30,"time":"2024-09-28T01:32:03.411Z","pid":42868,"hostname":"Cintia_Brito","msg":"Changed active page"}
+{"level":30,"time":"2024-09-28T01:32:05.754Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method newPage"}
+{"level":30,"time":"2024-09-28T01:32:05.760Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-09-28T01:32:05.760Z","pid":42868,"hostname":"Cintia_Brito","msg":"Strict mode is enabled, find Locator with css=a.login in page."}
+{"level":30,"time":"2024-09-28T01:32:05.828Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-09-28T01:32:05.833Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method click"}
+{"level":30,"time":"2024-09-28T01:32:05.834Z","pid":42868,"hostname":"Cintia_Brito","msg":"Strict mode is enabled, find Locator with css=a.login in page."}
+{"level":30,"time":"2024-09-28T01:32:06.253Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method click"}
+{"level":30,"time":"2024-09-28T01:32:06.257Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-09-28T01:32:06.257Z","pid":42868,"hostname":"Cintia_Brito","msg":"Strict mode is enabled, find Locator with xpath=//form[@id='create-account_form'] in page."}
+{"level":30,"time":"2024-09-28T01:32:06.480Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-09-28T01:32:06.485Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-09-28T01:32:06.485Z","pid":42868,"hostname":"Cintia_Brito","msg":"Strict mode is enabled, find Locator with id=email_create in page."}
+{"level":30,"time":"2024-09-28T01:32:06.503Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method fillText"}
+{"level":30,"time":"2024-09-28T01:32:06.510Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method click"}
+{"level":30,"time":"2024-09-28T01:32:06.510Z","pid":42868,"hostname":"Cintia_Brito","msg":"Strict mode is enabled, find Locator with id=SubmitCreate in page."}
+{"level":30,"time":"2024-09-28T01:32:06.580Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method click"}
+{"level":30,"time":"2024-09-28T01:32:06.585Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-09-28T01:32:06.585Z","pid":42868,"hostname":"Cintia_Brito","msg":"Strict mode is enabled, find Locator with id=customer_firstname in page."}
+{"level":30,"time":"2024-09-28T01:32:07.927Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-09-28T01:32:07.930Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-09-28T01:32:07.930Z","pid":42868,"hostname":"Cintia_Brito","msg":"Strict mode is enabled, find Locator with id=customer_firstname in page."}
+{"level":30,"time":"2024-09-28T01:32:07.942Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method fillText"}
+{"level":30,"time":"2024-09-28T01:32:07.946Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-09-28T01:32:07.946Z","pid":42868,"hostname":"Cintia_Brito","msg":"Strict mode is enabled, find Locator with id=customer_lastname in page."}
+{"level":30,"time":"2024-09-28T01:32:07.969Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method fillText"}
+{"level":30,"time":"2024-09-28T01:32:07.975Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-09-28T01:32:07.975Z","pid":42868,"hostname":"Cintia_Brito","msg":"Strict mode is enabled, find Locator with id=passwd in page."}
+{"level":30,"time":"2024-09-28T01:32:07.990Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method fillText"}
+{"level":30,"time":"2024-09-28T01:32:07.993Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-09-28T01:32:07.993Z","pid":42868,"hostname":"Cintia_Brito","msg":"Strict mode is enabled, find Locator with id=firstname in page."}
+{"level":30,"time":"2024-09-28T01:32:08.009Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method fillText"}
+{"level":30,"time":"2024-09-28T01:32:08.012Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-09-28T01:32:08.012Z","pid":42868,"hostname":"Cintia_Brito","msg":"Strict mode is enabled, find Locator with id=lastname in page."}
+{"level":30,"time":"2024-09-28T01:32:08.032Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method fillText"}
+{"level":30,"time":"2024-09-28T01:32:08.038Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-09-28T01:32:08.038Z","pid":42868,"hostname":"Cintia_Brito","msg":"Strict mode is enabled, find Locator with id=company in page."}
+{"level":30,"time":"2024-09-28T01:32:08.113Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method fillText"}
+{"level":30,"time":"2024-09-28T01:32:08.119Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-09-28T01:32:08.119Z","pid":42868,"hostname":"Cintia_Brito","msg":"Strict mode is enabled, find Locator with id=address1 in page."}
+{"level":30,"time":"2024-09-28T01:32:08.142Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method fillText"}
+{"level":30,"time":"2024-09-28T01:32:08.146Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-09-28T01:32:08.147Z","pid":42868,"hostname":"Cintia_Brito","msg":"Strict mode is enabled, find Locator with id=city in page."}
+{"level":30,"time":"2024-09-28T01:32:08.172Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method fillText"}
+{"level":30,"time":"2024-09-28T01:32:08.176Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-09-28T01:32:08.176Z","pid":42868,"hostname":"Cintia_Brito","msg":"Strict mode is enabled, find Locator with id=id_state in page."}
+{"level":30,"time":"2024-09-28T01:32:08.180Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-09-28T01:32:08.185Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method click"}
+{"level":30,"time":"2024-09-28T01:32:08.185Z","pid":42868,"hostname":"Cintia_Brito","msg":"Strict mode is enabled, find Locator with id=id_state in page."}
+{"level":30,"time":"2024-09-28T01:32:08.278Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method click"}
+{"level":30,"time":"2024-09-28T01:32:08.284Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-09-28T01:32:08.284Z","pid":42868,"hostname":"Cintia_Brito","msg":"Strict mode is enabled, find Locator with id=id_state in page."}
+{"level":30,"time":"2024-09-28T01:32:08.324Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-09-28T01:32:08.328Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method selectOption"}
+{"level":30,"time":"2024-09-28T01:32:08.328Z","pid":42868,"hostname":"Cintia_Brito","msg":"Strict mode is enabled, find Locator with id=id_state in page."}
+{"level":30,"time":"2024-09-28T01:32:08.366Z","pid":42868,"hostname":"Cintia_Brito","msg":"Option entries: 54"}
+{"level":30,"time":"2024-09-28T01:32:08.367Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method selectOption"}
+{"level":30,"time":"2024-09-28T01:32:08.367Z","pid":42868,"hostname":"Cintia_Brito","msg":"Selected entries: 1"}
+{"level":30,"time":"2024-09-28T01:32:08.373Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-09-28T01:32:08.373Z","pid":42868,"hostname":"Cintia_Brito","msg":"Strict mode is enabled, find Locator with id=postcode in page."}
+{"level":30,"time":"2024-09-28T01:32:08.409Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method fillText"}
+{"level":30,"time":"2024-09-28T01:32:08.413Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-09-28T01:32:08.413Z","pid":42868,"hostname":"Cintia_Brito","msg":"Strict mode is enabled, find Locator with id=phone_mobile in page."}
+{"level":30,"time":"2024-09-28T01:32:08.440Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method fillText"}
+{"level":30,"time":"2024-09-28T01:32:08.445Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method click"}
+{"level":30,"time":"2024-09-28T01:32:08.445Z","pid":42868,"hostname":"Cintia_Brito","msg":"Strict mode is enabled, find Locator with id=submitAccount in page."}
+{"level":30,"time":"2024-09-28T01:32:09.392Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method click"}
+{"level":30,"time":"2024-09-28T01:32:09.396Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-09-28T01:32:09.396Z","pid":42868,"hostname":"Cintia_Brito","msg":"Strict mode is enabled, find Locator with id=my-account in page."}
+{"level":30,"time":"2024-09-28T01:32:09.546Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-09-28T01:32:09.550Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method getText"}
+{"level":30,"time":"2024-09-28T01:32:09.550Z","pid":42868,"hostname":"Cintia_Brito","msg":"Strict mode is enabled, find Locator with id=my-account in page."}
+{"level":30,"time":"2024-09-28T01:32:09.583Z","pid":42868,"hostname":"Cintia_Brito","msg":"Retrieved text for element id=my-account containing Manuela Bernardes\nSign out\nCurrency : GBP \nContact us\nCall us now: 0123-456-789\n Cart (empty)\nWOMEN\nDRESSES\nT-SHIRTS\n > My account\nMY ACCOUNT\n\nWelcome to your account. Here you can manage all of your personal information and orders.\n\nORDER HISTORY AND DETAILS\nMY CREDIT SLIPS\nMY ADDRESSES\nMY PERSONAL INFORMATION\n Home\nNewsletter\nFollow us\nCategories\nWomen\nInformation\nSpecials\nNew products\nBest sellers\nOur stores\nContact us\nTerms and conditions of use\nAbout us\nSitemap\n© 2024 - Ecommerce software by PrestaShop™\nMy account\nMy orders\nMy credit slips\nMy addresses\nMy personal info\nSign out\nStore Information\nMy Company, 42 Puffin street 12345 Puffinville France\nCall us now: 0123-456-789\nEmail: sales@yourcompany.com"}
+{"level":30,"time":"2024-09-28T01:32:09.583Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method getText"}
+{"level":30,"time":"2024-09-28T01:32:09.589Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2024-09-28T01:32:09.612Z","pid":42868,"hostname":"Cintia_Brito","msg":"Removed page=18208b03-fdbe-471a-8070-137c1bb42567 from context=fe0d33a7-da35-448c-831a-a206d32c5a64 page stack"}
+{"level":30,"time":"2024-09-28T01:32:09.891Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method closeBrowser"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (C:\Users\cinth\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\Browser\wrapper\index.js:10748:15)
+    at PlaywrightServer.getActiveBrowser (C:\Users\cinth\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\Browser\wrapper\index.js:11364:59)
+    at PlaywrightServer.setTimeout (C:\Users\cinth\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\Browser\wrapper\index.js:11603:57)
+    at Object.onReceiveHalfClose (C:\Users\cinth\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:1425:25)
+    at BaseServerInterceptingCall.maybePushNextMessage (C:\Users\cinth\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:569:31)
+    at BaseServerInterceptingCall.handleEndEvent (C:\Users\cinth\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:609:14)
+    at ServerHttp2Stream.<anonymous> (C:\Users\cinth\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:376:18)
+    at ServerHttp2Stream.emit (node:events:531:35)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2024-09-28T01:32:09.917Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-09-28T01:32:09.917Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (C:\Users\cinth\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\Browser\wrapper\index.js:10748:15)
+    at PlaywrightServer.getActiveBrowser (C:\Users\cinth\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\Browser\wrapper\index.js:11364:59)
+    at PlaywrightServer.setTimeout (C:\Users\cinth\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\Browser\wrapper\index.js:11603:57)
+    at Object.onReceiveHalfClose (C:\Users\cinth\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:1425:25)
+    at BaseServerInterceptingCall.maybePushNextMessage (C:\Users\cinth\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:569:31)
+    at BaseServerInterceptingCall.handleEndEvent (C:\Users\cinth\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:609:14)
+    at ServerHttp2Stream.<anonymous> (C:\Users\cinth\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:376:18)
+    at ServerHttp2Stream.emit (node:events:531:35)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2024-09-28T01:32:09.930Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-09-28T01:32:09.930Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-09-28T01:32:09.999Z","pid":42868,"hostname":"Cintia_Brito","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2024-09-28T01:32:09.999Z","pid":42868,"hostname":"Cintia_Brito","msg":"End of node method closeAllBrowsers"}
